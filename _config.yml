@@ -23,7 +23,10 @@ plugins:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
+- showcase.html
+- blog.html
+- index_layout2.html
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
