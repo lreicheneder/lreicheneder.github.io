@@ -1,14 +1,13 @@
-primary_name: "Your Name"
-secondary_name: ""
-navbar_name: "Your Name"
+primary_name: "Leonie Reicheneder"
+navbar_name: "Leonie Reicheneder"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
+- name: PhD candidate
+- name: Department of Political Science, University of Gothenburg
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
-email: "your@email.com"
+email: "leonie.reicheneder@gu.se"
 # cv_link: link-to-your-cv-file
 gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: your_github_id
