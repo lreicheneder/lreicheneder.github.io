@@ -27,6 +27,7 @@ exclude:
 - showcase.html
 - blog.html
 - index_layout2.html
+- vendor
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
