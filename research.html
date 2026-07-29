@@ -6,6 +6,11 @@ body_attr: >-
   data-spy="scroll" data-target="#navbar-year" data-offset="100"
 ---
 
+<p>
+  My research examines external support for democratization and state-building
+  in fragile and conflict-affected contexts.
+</p>
+
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
 <div class="row">
