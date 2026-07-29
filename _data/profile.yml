@@ -1,5 +1,5 @@
 primary_name: "Leonie Reicheneder"
-navbar_name: Home
+navbar_name: "Leonie Reicheneder"
 
 positions:
 - name: PhD candidate
@@ -18,7 +18,7 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
   I am a PhD candidate at the Department of Political Science at the University of Gothenburg. 
-  <p>
+  </p>
   
   <p>
   My research focuses on external support for democratization and state-building in fragile and conflict-affected contexts. 
@@ -29,6 +29,6 @@ short_bio: >-
   <p>
   In my dissertation, I investigate the conditions under which democracy aid promotes democratization after civil war. 
   Using statistical analyses, conjoint survey experiments, and interviews with practitioners, I examine how conflict dynamics, state capacity, and aid design influence aid effectiveness.
-  <p>
+  </p>
 
-portrait_url: /assets/images/photos/Photo_LeonieReicheneder.jpg
+portrait_url: "/assets/images/photos/Photo_LeonieReicheneder.jpg"
