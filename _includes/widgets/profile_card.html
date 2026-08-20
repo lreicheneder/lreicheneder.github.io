@@ -49,11 +49,10 @@
                 <hr />
                 <div class="row">
                     <div class="col">
-                        <a class="pr-3 no-break" href="mailto:{{ site.data.profile.email | encode_email }}">
-                            <i class="fas fa-at"></i>
-                            <span class="email-text" style="font-size: 0.9em; white-space: nowrap;">
-                                {{ site.data.profile.email | replace: "@", "(at)" }}
-                            </span>
+                        <a href="mailto:{{ site.data.profile.email | encode_email }}"
+                            style="white-space: nowrap; font-size: 0.82em;">
+                             <i class="fas fa-at"></i>
+                             <span>{{ site.data.profile.email }}</span>
                         </a>
 
                         {% if site.data.profile.gscholar %}
