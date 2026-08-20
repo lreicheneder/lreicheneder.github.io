@@ -1,24 +1,12 @@
 ---
-title:          "Pharetra Massa Massa Ultricies Mi Nisl Tincidunt"
-date:           2023-01-21 00:01:00 +0800
-selected:       false
-pub:            "International Conference on Learning Representations (ICLR)"
-pub_date:       "2023"
-semantic_scholar_id: 11ac0b5634a282f1a0da204b98e7473d8b480dfb  # use this to retrieve citation count
+pub:            "On the effectiveness of democracy aid in post-civil war recipient countries"
+pub_date:       "2024"
 abstract: >-
-  Photo by Dessy Dimcheva on Unsplash. Please keep the description of your publication as brief as possible. 1~2 sentences is ideal. Otherwise, it will look too noisy. This is a <strong>counterexample</strong> to show how the publication will look like when the abstract is too long.
-  The tangerine is a type of citrus fruit that is orange in color, that is considered either a variety of Citrus reticulata, the mandarin orange, or a closely related species, under the name Citrus tangerina, or yet as a hybrid (Citrus × tangerina) of mandarin orange varieties, with some pomelo contribution.
-  According to the Oxford English Dictionary (OED), the word "tangerine" was originally an adjective meaning "Of or pertaining to, or native of Tangier, a seaport in Morocco, on the Strait of Gibraltar" and "a native of Tangier." The name was first used for fruit coming from Tangier, Morocco, described as a mandarin variety. The OED cites this usage from Addison's The Tatler in 1710 with similar uses from the 1800s. The adjective was applied to the fruit, once known scientifically as "Citrus nobilis var. tangeriana" which grew in the region of Tangiers. This usage appears in the 1800s.
+  Democracy aid has been a major foreign policy instrument over the past 30 years. However, it is not clear whether such aid has any meaningful effect on democratic development in recipient countries, as previous studies have yielded somewhat contradictory results. We contribute to the burgeoning literature on the effectiveness of democracy aid by arguing that recipient countries’ history of conflict constitutes an important moderator in the relationship between democracy aid and democratic development. Specifically, we develop a theoretical framework which examines the effects of two different types of democracy aid – top-down and bottom-up assistance – on democratic development in post-conflict recipient countries. Analysing data on 147 recipients over a period of 19 years (2002–2020), we find that while neither type has a significant general effect on democracy levels in recipient countries, bottom-up democracy assistance does have a positive and significant effect in post-conflict contexts, which suggests that post-conflict periods pose an opportunity for domestic pro-democracy actors and their international supporters to nudge their countries towards democratic development. These findings have implications for the literatures on democracy aid and conflict as well as policymakers interested in fostering democratic development abroad.
 
-cover:          /assets/images/covers/cover2.jpg
 authors:
-  - Charles Green (MIT)*
-  - John Doe*
-  - Robert White
-  - James Wang
-  - Your Name#
+  - Leonie Reicheneder
+  - Michael Neureiter
 links:
-  Paper: https://www.biorxiv.org
-  Code: https://github.com
-  Unsplash: https://unsplash.com/photos/orange-fruit-on-white-table-cloth-ISX_imp8t1o
+  Paper: https://doi.org/10.1080/13510347.2023.2268536
 ---
